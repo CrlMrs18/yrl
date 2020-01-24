@@ -1,0 +1,582 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-04 20:27+0100\n"
+"PO-Revision-Date: 2020-01-04 20:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin.php:20
+msgid " was successfully added to the administrators !"
+msgstr " a été ajouté aux administrateurs !"
+
+#: admin.php:23 admin.php:33
+msgid "There was an error adding "
+msgstr "Une erreur s'est produite lors de l'ajout de "
+
+#: admin.php:23
+msgid " to the administrators."
+msgstr " aux administrateurs."
+
+#: admin.php:30
+msgid " was successfully added to the Super Users !"
+msgstr " a été ajouté aux Super Utilisateurs !"
+
+#: admin.php:33
+msgid " to the Super Users."
+msgstr " aux Super Utilisateurs."
+
+#: admin.php:53
+msgid "Add an admin"
+msgstr "Ajouter un administrateur"
+
+#: admin.php:60
+msgid "Can access to this page. Is also a super user."
+msgstr "Peut accéder à cette page. Est aussi un Super Utilisateur."
+
+#: admin.php:66 admin.php:104
+msgid "Mail"
+msgstr "Mail"
+
+#: admin.php:73 admin.php:111 booking.php:156
+msgid "Validate"
+msgstr "Valider"
+
+#: admin.php:91
+msgid "Add a Super User"
+msgstr "Ajouter un Super Utilisateur"
+
+#: admin.php:98
+msgid "Has an infinite number of slots."
+msgstr "A un nombre infini de réservations possibles."
+
+#: booking.php:25
+msgid "You already booked your maximum amount of slots."
+msgstr "Vous avez déjà réservé la totalité de vos créneaux."
+
+#: booking.php:39
+msgid "Please use the required date format."
+msgstr "Merci d'utiliser le format de date requis."
+
+#: booking.php:55
+msgid "Sorry, it appears that someone else just picked this slot."
+msgstr "Désolé, il semble que quelqu'un vienne de réserver ce créneau."
+
+#: booking.php:61
+msgid "There has been an issue with your reservation. Please try again."
+msgstr "Il y a eu un problème avec votre réservation. Merci de réessayer."
+
+#: booking.php:96
+msgid "Unbook"
+msgstr "Désinscription"
+
+#: booking.php:102
+msgid "You do not have reserved slots yet"
+msgstr "Vous n'avez pas encore réservé de créneaux"
+
+#: booking.php:118 index.php:32
+msgid "Booking"
+msgstr "Réservation"
+
+#: booking.php:127
+msgid "Date"
+msgstr "Date"
+
+#: booking.php:131
+msgid "Hour"
+msgstr "Heure"
+
+#: booking.php:141
+msgid ""
+"If you use an old navigator, you may have to enter text to chose a date."
+msgstr ""
+"Si vous utilisez un vieux navigateur, vous devez peut-être remplir le champ "
+"ci-dessus avec du texte."
+
+#: booking.php:143
+msgid "Please use the following format : yyyy-mm-dd"
+msgstr "Merci d'utiliser le format suivant : aaaa-mm-jj"
+
+#: booking.php:146
+msgid ""
+"You can book a slot through this form. Be careful, you can only have 10 "
+"slots at the same time."
+msgstr ""
+"Vous pouvez réserver un créneau via ce formulaire. Attention, vous n'avez le "
+"droit qu'à 10 créneaux en même temps."
+
+#: booking.php:148
+msgid "Pick a date, and then an hour."
+msgstr "Choisissez une date, puis une heure."
+
+#: booking.php:159
+msgid "Reset form"
+msgstr "Retour"
+
+#: booking.php:179
+msgid "My reservations"
+msgstr "Mes réservations"
+
+#: booking.php:185
+msgid "Here is a list of your reservations :"
+msgstr "Voici une liste de vos réservations :"
+
+#: experiment.php:116 spectator.php:114
+msgid "Parameters"
+msgstr "Paramètres"
+
+#: experiment.php:120
+msgid "Exposure (ms)"
+msgstr "Exposition (ms)"
+
+#: experiment.php:132 spectator.php:126
+msgid "Threshold"
+msgstr "Seuil"
+
+#: experiment.php:144 spectator.php:136
+msgid "Time left"
+msgstr "Temps restant"
+
+#: experiment.php:166 spectator.php:158
+msgid "Image obtained on the camera screen"
+msgstr "Image obtenue sur l'écran"
+
+#: experiment.php:171 spectator.php:163
+msgid "Number of photons :"
+msgstr "Nombre de photons :"
+
+#: experiment.php:175 spectator.php:166
+msgid "Impact histogram"
+msgstr "Histogramme des impacts"
+
+#: experiment.php:182 spectator.php:172
+msgid "Pixel absciss"
+msgstr "Abscisse du pixel"
+
+#: experiment.php:191
+msgid "Acquire"
+msgstr "Acquisition"
+
+#: experiment.php:196
+msgid "Stop"
+msgstr ""
+
+#: experiment.php:203
+msgid "You can't modify the parameters during an acquisition."
+msgstr "Vous ne pouvez pas modifier les paramètres pendant une acquisition."
+
+#: index.php:19
+msgid "Quantum physics remote laboratory"
+msgstr "Labo en ligne de physique quantique"
+
+#: index.php:21
+msgid ""
+"This site offers you the opportunity to perform a real remote quantum "
+"physics experiment: the Young's slit experiment in a unique photon regime. "
+"Discover the first remote lab that allows you to manipulate one of the most "
+"beautiful experience of physics, live !"
+msgstr ""
+"Ce site vous propose de réaliser en direct une véritable expérience de "
+"mécanique quantique : l'expérience des fentes d'Young en régime de photon "
+"unique. Découvrez ce laboratoire qui vous permet de voir et manipuler en "
+"direct l'une des plus belles expériences de physique !"
+
+#: index.php:26
+msgid "Connect"
+msgstr "Connexion"
+
+#: index.php:27 init.php:381 navbar.php:5
+msgid "Experiment"
+msgstr "Expérience"
+
+#: index.php:31 init.php:415 navbar.php:47
+msgid "Register"
+msgstr "Inscription"
+
+#: index.php:38
+msgid "You can manipulate the experiment by logging in and booking a slot,"
+msgstr ""
+"Vous pouvez prendre le contrôle de l'expérience en vous connectant et en "
+"réservant un créneau,"
+
+#: index.php:40
+msgid "or starting by watching the recorded results just below."
+msgstr "ou commencer en regardant les résultats enregistrés ci-dessous !"
+
+#: index.php:44
+msgid "Your browser does not support the video tag."
+msgstr "Votre navigateur n'a pas pu lire la vidéo"
+
+#: index.php:50
+msgid ""
+"This site allows you to remotely control an experimental set-up of Young's "
+"slits (see photo above), in a single photon regime. A conventional and "
+"monochromatic light source (a diode) emits light whose intensity is greatly "
+"reduced thanks to an optical density placed in the opaque PVC tube. This "
+"attenuated light then passes through a Young's double slit and reaches the "
+"EMCCD camera, and you can observe the measurement and analysis of the "
+"received light signal live."
+msgstr ""
+"Ce site vous permet de contrôler à distance un montage expérimental des "
+"fentes de Young (voir photo ci-dessus), en régime de photons uniques. Une "
+"source de lumière classique et monochromatique (diode électro-luminescente) "
+"émet de la lumière dont l’intensité est fortement réduite grâce à une "
+"densité optique placée dans le tube en PVC opaque. Cette lumière atténuée "
+"traverse ensuite une double-fente de Young et arrive sur la caméra EMCCD, et "
+"vous pouvez observer en direct la mesure et l’analyse du signal lumineux "
+"reçu."
+
+#: index.php:51
+msgid ""
+"You can choose the wavelength of the light source, and set the following "
+"parameters:"
+msgstr ""
+"Vous avez la possibilité de choisir la longueur d’onde de la source "
+"lumineuse, et régler les paramètres suivants :"
+
+#: index.php:53
+msgid ""
+"Threshold: threshold of light intensity at which the received light signal "
+"is not noise."
+msgstr ""
+"Seuil : seuil d’intensité lumineuse à partir duquel le signal lumineux reçu "
+"n’est pas du bruit."
+
+#: index.php:54
+msgid ""
+"Camera exposure time: the higher it is, the further away from the single "
+"photon regime you are."
+msgstr ""
+"Temps d’exposition de la caméra : plus sa valeur est élevée, plus on "
+"s’éloigne du régime de photon unique."
+
+#: index.php:56
+msgid ""
+"Click on the \"Blue\" or \"Red\" button to remotely turn on the LED, and "
+"perform live \"the most beautiful physics experiment\"!"
+msgstr ""
+"Cliquez sur \" Bleu \" ou \" Rouge \" pour allumer à distance la LED "
+"choisie, et réalisez en direct \" la plus belle expérience de physique \" !"
+
+#: index.php:57
+msgid ""
+"Do not update the page to avoid losing the information already acquired!"
+msgstr ""
+"Ne pas actualiser la page pour ne pas perdre les informations déjà acquises !"
+
+#: index.php:68
+msgid ""
+"This website was built during a collective scientific project at the Ecole "
+"Polytechnique"
+msgstr ""
+"Ce site a été mis en place dans le cadre d'un projet scientifique commun par "
+"des élèves de l'Ecole Polytechnique"
+
+#: init.php:56
+msgid "The password should contain at least 8 characters."
+msgstr "Le mot de passe doit comporter au moins 8 caractères."
+
+#: init.php:58
+msgid "The password should include at least one number."
+msgstr "Le mot de passe doit comporter au moins un chiffre."
+
+#: init.php:60
+msgid "The password should include at least one letter."
+msgstr "Le mot de passe doit comporter au moins une lettre."
+
+#: init.php:115
+msgid "Test"
+msgstr "Test"
+
+#: init.php:281
+msgid "To define a new password, please click on the following link:"
+msgstr ""
+"Pour définir votre nouveau mot de passe, veuillez vous connecter à l'adresse "
+"suivante :"
+
+#: init.php:283
+msgid ""
+"For safety reasons, the above link is valid only for 24h and can be used "
+"only once."
+msgstr ""
+"Pour des raisons de sécurité, le lien ci-dessus est à usage unique et doit "
+"être utilisé d'ici 24h."
+
+#: init.php:289
+msgid ""
+"Three e-mails have already been sent to this address in the last 24h. For "
+"safety reasons we cannot send you any additional e-mail before the "
+"expiration of this 24-hour delay."
+msgstr ""
+"Trois courriels de création d'un nouveau mot de passe vous ont déjà été "
+"adressés lors des dernières 24h. Pour des raisons de sécurité, il nous est "
+"impossible de vous adresser de nouveau courriel avant l'expiration de cette "
+"période de 24h."
+
+#: init.php:292
+msgid ""
+"Please note that for safety reasons, this is the last e-mail we can send you "
+"before the expiration of a 24-hour delay"
+msgstr ""
+"Attention : pour des raisons de sécurité, ceci est le dernier message de ce "
+"type qui vous est envoyé avant l'expiration d'une période de 24h"
+
+#: init.php:305
+msgid "Password initialization"
+msgstr "Initialisation du mot de passe"
+
+#: init.php:309
+msgid "Error while sending password mail."
+msgstr "Une erreur s'est produite lors de l'envoi du courrier électronique."
+
+#: init.php:379
+msgid "Home"
+msgstr "Acceuil"
+
+#: init.php:380 navbar.php:4
+msgid "Reservation"
+msgstr "Réservation"
+
+#: init.php:382
+msgid "Spectator"
+msgstr "Spectateur"
+
+#: init.php:383 navbar.php:7
+msgid "Theory"
+msgstr "Théorie"
+
+#: init.php:386 navbar.php:11
+msgid "Administration"
+msgstr "Administration"
+
+#: init.php:409 navbar.php:41
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: init.php:412 login.php:50
+msgid "Log in"
+msgstr "Connexion"
+
+#: init.php:595
+msgid "Your slot has been successfully registered !"
+msgstr "Votre créneau a été réservé !"
+
+#: init.php:605
+msgid "Reservation confirmed"
+msgstr "Réservation confirmée"
+
+#: init.php:610
+msgid ""
+"Your slot has been successfuly registered ! A confirmation has been sent to "
+"your e-mail."
+msgstr ""
+"Votre créneau a été réservé ! Un e-mail de confirmation vous a été envoyé."
+
+#: init.php:613
+msgid ""
+"<p style='color:red'>Error while sending reservation confirmation mail.</p>"
+msgstr ""
+"<p style='color:red'>Erreur lors de l'envoi du mail de confirmation de "
+"réservation.</p>"
+
+#: init.php:620
+msgid "Your slot has been successfully unbooked."
+msgstr "Votre créneau a été supprimé."
+
+#: login.php:17
+msgid "Please enter your e-mail address and passord in the form below."
+msgstr ""
+"Veuillez saisir votre identifiant (i.e. votre adresse électronique) et votre "
+"mot de passe dans le formulaire ci-dessous."
+
+#: login.php:19
+#, php-format
+msgid "User %s not found in database. Please sign up."
+msgstr ""
+"L'utilisateur %s n'a pas été trouvé dans la base de données. Veuillez vous "
+"enregistrer."
+
+#: login.php:24
+msgid "Invalid password"
+msgstr "Mot de passe incorrect"
+
+#: login.php:38 navbar.php:44
+msgid "Login"
+msgstr "Identifiant"
+
+#: login.php:42
+msgid "Password"
+msgstr "Mot de passe"
+
+#: navbar.php:6
+msgid "Observation"
+msgstr "Observation"
+
+#: password.php:16
+msgid "No key provided for resetting password."
+msgstr "Aucune clé d'initialisation du mot de passe n'apparaît dans le lien."
+
+#: password.php:24
+msgid "This password key has already been used. "
+msgstr "Cette clé a déjà été utilisée. "
+
+#: password.php:28
+msgid "This password key is too old."
+msgstr "Cette clé est trop ancienne."
+
+#: password.php:31
+msgid "This password key is not valid."
+msgstr "Cette clé n'est pas valide."
+
+#: password.php:38
+#, php-format
+msgid "Please %s request a new key%s"
+msgstr "Veuillez %sdemander une nouvelle clé%s"
+
+#: password.php:42
+msgid "An error has occurred ..."
+msgstr "Une erreur s'est produite …"
+
+#: password.php:58
+msgid "The two password entries must be identical"
+msgstr "Les deux mots de passe doivent être identiques"
+
+#: password.php:72
+msgid "Password form"
+msgstr "Initialisation du mot de passe"
+
+#: password.php:78
+msgid ""
+"Please enter a password of at least 8 characters containing at least one "
+"letter and one digit."
+msgstr ""
+"Veuillez saisir un mot de passe comportant au moins 8 caractères, avec au "
+"moins une lettre et au moins un chiffre."
+
+#: password.php:83 signup.php:100
+msgid "E-mail address"
+msgstr "Adresse électronique"
+
+#: password.php:87
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+#: password.php:91
+msgid "Check password"
+msgstr "Vérification du mot de passe"
+
+#: signup.php:34
+#, php-format
+msgid "User %s is not yet registered in database. Please sign up."
+msgstr ""
+"L'utilisateur %s n'a pas été trouvé dans la base de données. Veuillez vous "
+"enregistrer."
+
+#: signup.php:43
+msgid "This e-mail address was already registered in"
+msgstr ""
+"L'adresse électronique spécifiée correspond à un utilisateur déjà inscrit à"
+
+#: signup.php:51
+msgid "Thank you for signing up to"
+msgstr "Merci de vous être inscrit à"
+
+#: signup.php:53
+msgid "An error occured. Please contact"
+msgstr "Une erreur s'est produite. Veuillez contacter"
+
+#: signup.php:54
+msgid "Unexpected error"
+msgstr "Erreur inattendue"
+
+#: signup.php:59
+msgid ""
+"The relevant information for initializing your new password has been sent to "
+"the e-mail address below :"
+msgstr ""
+"Un courriel contenant les informations nécessaires à la saisie d'un nouveau "
+"mot de passe vient d'être envoyé à l'adresse ci-dessous:"
+
+#: signup.php:61
+msgid "If you don't get this e-mail, please contact "
+msgstr "Si vous ne le recevez pas, veuillez contacter "
+
+#: signup.php:62
+msgid "e-mail for new password not received"
+msgstr "courriel nouveau mot de passe non reçu"
+
+#: signup.php:68
+msgid "Please enter a valid e-mail address"
+msgstr "Veuillez entrer une adresse électronique valide"
+
+#: signup.php:79
+msgid "Sign up form"
+msgstr "Formulaire d'enregistrement"
+
+#: signup.php:81
+msgid "Password reset form"
+msgstr "Initialisation du mot de passe"
+
+#: signup.php:92
+msgid "Last name"
+msgstr "Nom"
+
+#: signup.php:96
+msgid "First name"
+msgstr "Prénom"
+
+#: spectator.php:97
+msgid "LED"
+msgstr "LED"
+
+#: spectator.php:118
+msgid "Exposure time"
+msgstr "Exposition"
+
+#~ msgid "Welcome"
+#~ msgstr "Bienvenue"
+
+#~ msgid "Experience"
+#~ msgstr "Expérience"
+
+#~ msgid "Welcome on the Young remote lab !"
+#~ msgstr "Bienvenue sur le remote lab des fentes de Young !"
+
+#~ msgid "hello world"
+#~ msgstr "bonjour monde"
+
+#~ msgid "Log out"
+#~ msgstr "Déconnexion"
+
+#~ msgid "Paramètres"
+#~ msgstr "Parameters"
+
+#~ msgid "Temps restant"
+#~ msgstr "Time left"
+
+#~ msgid "Please <a href=signup.php>request a new key</a>."
+#~ msgstr "Veuillez <a href=signup.php>demander une nouvelle clé</a>."
+
+#, fuzzy
+#~| msgid "Si vous ne le recevez pas, veuillez contacter"
+#~ msgid "If vous ne le recevez pas, veuillez contacter"
+#~ msgstr "Si vous ne le recevez pas, veuillez contacter"
+
+#~ msgid ""
+#~ "An e-mail has been sent to the address below for confirmation and "
+#~ "initialization of a new password"
+#~ msgstr ""
+#~ "Un courriel contenant les informations nécessaires à la saisie d'un "
+#~ "nouveau mot de passe vient d'être envoyé à l'adresse ci-dessous:"
+
+#~ msgid "Hello !"
+#~ msgstr "Bonjour !"

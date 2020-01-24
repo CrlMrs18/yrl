@@ -1,0 +1,58 @@
+body {        
+	font-family: arial,helvetica;
+	background : url(img.jpg);
+ 	background-size : cover;
+	background-position: center;
+}
+form fieldset {
+    display: inline-block;
+    position: fixed;
+ 	width: 340px;
+ 	height: 280px;
+ 	top: 50%;
+ 	left: 50%;
+ 	margin-top: -140px;
+ 	margin-left: -170px;
+ 	background: #fff;
+ 	border-radius: 3px;
+ 	border: 1px solid #ccc;
+}
+.radioButton {        
+	float: none;        
+	display: inline;        
+	margin-right: 0.1em;        
+	width: 2em; 
+}
+form label {        
+	width: 8em;        
+	margin-right: 1em;        
+	float: left;        
+	text-align: right;
+	color: #555;
+ 	margin-left: 18px;
+ 	padding-top: 10px;
+ 	font-size: 14px;        
+	display: block; 
+}
+form input {        
+	width: 15em; 
+}
+#submit {                
+	float: right; 
+ 	margin-right: 20px;
+ 	margin-top: 20px;
+ 	width: 80px;
+ 	height: 30px;
+ 	font-size: 14px;
+ 	font-weight: bold;
+ 	color: #fff;
+}
+.errorClass {        
+	background-color: #CC6666; 
+}
+#errorDiv {        
+	color: red; 
+}
+.errorFeedback {        
+	visibility: hidden; 
+}
